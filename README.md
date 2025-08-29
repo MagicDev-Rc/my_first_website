@@ -1,13 +1,50 @@
-Link de la website: http://127.0.0.1:3000/Proyecto-Restaurante/indexRepaso.html.
-El objetivo de este proyecto fue repasar los conceptos claves de HTML y CSS. 
-El documento principal es "indexRepaso.html", el cual lo dividi en dos partes esenciales: contenido principal (uso del elemento main) y el pie de página (uso del elemento footer).
-Dentro del contenido principal use elementos de encabezado (h1, h2, h3 y h4) para el titulo y subtitulos, además lo subdividi en 3 secciones (uso del elemento section). En la primera sección anide un parrafo y una imagen de bienvenida, 
-la segunda sección contiene la presentación del equipo de trabajo, y la tercera contiene algunos de los platos que ofrece el restaurante, por ultimo esta el formulario el cual contiene campos obligarios, por lo que es necesario llenar sus campos
-para posteriormente enviar los datos  a un servidor.
-Dentro del pie de pagina se agrego 3 elementos de parrafo (elemento p), envolviendo cada uno con el elemento div para un mejor uso a la hora de agregarle estilos.
+Link de la website: https://magicdev-rc.github.io/my_first_website/
+Descripción del Proyecto 📝
+Este proyecto es una página web estática de un restaurante ficticio llamado Restaurante REYES. La página ha sido desarrollada completamente con HTML5 para demostrar el uso de varios elementos esenciales en la estructuración de un documento web. Es un proyecto ideal para quienes se inician en el desarrollo web con HTML.
+Elementos HTML Utilizados 🛠️
+Para construir la página se emplearon los siguientes elementos, cada uno con una función específica para estructurar la información:
 
-El archivo "indexRepaso.css" contiene todos los estilos aplicados a los elementos usados para la creación del sitio web. En resumen se agrego una imagen de fondo en toda la website, se establecieron tamaños de letra y tipo, espacios internos
-y externos de los elementos, tambien se establecio un tamaño a cada elemento; para todo ello se hizo uso de selectores de tipo y de clase, y las propiedades requeridas. 
+Estructura Principal:
 
-Finalmente, el archivo "comentarios.html" es parte del archivo principal "indexRepaso.html", ya que contiene algunos comentarios de los clientes que visitaron el restaurante. Y el archivo "comentarios.css" contiene los estilos para el documento
-"comentarios.html".
+<main>: Contiene el contenido principal del documento, excluyendo elementos como el encabezado y el pie de página, lo que mejora la semántica y accesibilidad.
+
+<section>: Se usó para agrupar contenido temático relacionado, como la sección "Menú" o "Sobre nosotros".
+
+Contenido de Texto y Encabezados:
+
+<p>: Para párrafos de texto, proporcionando información detallada sobre el restaurante o los platos.
+
+<h1>, <h2>, <h3>, <h4>: Se utilizaron para definir una jerarquía clara en los títulos y subtítulos del contenido.
+
+Listas:
+
+<ol> (lista ordenada) y <ul> (lista no ordenada): Para listar elementos de manera estructurada, como el menú del restaurante o una lista de servicios.
+
+<li>: El elemento individual dentro de las listas.
+
+Imágenes y Multimedia:
+
+<figure>: Un contenedor para imágenes que son parte del contenido principal.
+
+<figcaption>: Proporciona una leyenda o descripción para las imágenes dentro de un elemento <figure>.
+
+<img>: Para insertar imágenes en la página.
+
+Formularios:
+
+<form>: Contenedor para el formulario de contacto o de reservaciones.
+
+<fieldset> y <legend>: Se utilizaron para agrupar campos relacionados en el formulario.
+
+<label> y <input>: Para crear etiquetas y campos de entrada de datos.
+
+Énfasis de Texto:
+
+<strong>: Para resaltar palabras o frases importantes.
+
+Pie de página:
+
+<footer>: Proporciona información de contacto y derechos de autor al final de la página.
+
+Cómo Usar Este Proyecto
+Para visualizar la página web, simplemente abre el archivo index.html en tu navegador web. No se necesita ningún servidor local, ya que el proyecto es una página estática.
