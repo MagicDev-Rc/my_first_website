@@ -36,5 +36,7 @@ Para construir la página se emplearon los siguientes elementos, cada uno con un
 
 Para visualizar la página web, simplemente abre el archivo `index.html` en tu navegador web. No se necesita ningún servidor local, ya que el proyecto es una página estática.
 
+---
+
 ### Link de la website
 https://magicdev-rc.github.io/my_first_website/
