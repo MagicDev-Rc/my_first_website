@@ -1,3 +1,9 @@
+# Restaurante REYES
+
+¡Visita la página web aquí: [https://MagicDev-Rc.github.io/my_first_website/](https://MagicDev-Rc.github.io/my_first_website/)
+
+---
+
 ### Descripción del Proyecto 📝
 
 Este proyecto es una página web estática de un restaurante ficticio llamado **Restaurante REYES**. La página ha sido desarrollada completamente con **HTML5** para demostrar el uso de varios elementos esenciales en la estructuración de un documento web. Es un proyecto ideal para quienes se inician en el desarrollo web con HTML.
@@ -34,9 +40,4 @@ Para construir la página se emplearon los siguientes elementos, cada uno con un
 
 ### Cómo Usar Este Proyecto
 
-Para visualizar la página web, simplemente abre el archivo `index.html` en tu navegador web. No se necesita ningún servidor local, ya que el proyecto es una página estática.
-
----
-
-### Link de la website
-https://magicdev-rc.github.io/my_first_website/
+Para visualizar la página web, primeramente se debe descargar el archivo `index.html` y luego abrirlo en tu navegador web. No se necesita ningún servidor local, ya que el proyecto es una página estática.
